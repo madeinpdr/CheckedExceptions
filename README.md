@@ -23,3 +23,10 @@ Cada classe representa uma empresa e possui ao menos uma exceção personalizada
 - Uso de `try/catch` para tratamento seguro de erros
 - Comentários no código explicando decisões técnicas
 - Testes simples via `main()` em cada classe
+
+---
+
+## ✍️ Autor
+
+Desenvolvido por Pedro Vinícius Rocha Xavier
+Este projeto foi criado com fins didáticos para estudos sobre tratamento de exceções em Java.
